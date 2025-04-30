@@ -1,4 +1,5 @@
 const { createClient } = require('./client');
+require("./keepAlive");
 
 const startBot = async () => {
 	try {
