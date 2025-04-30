@@ -1,0 +1,16 @@
+{
+  "name": "tibia-bot",
+  "version": "1.0.0",
+  "description": "Tibia Bot for Discord ( PT - BR ) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Botingnon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "discord.js": "^14.19.2",
+    "dotenv": "^16.5.0"
+  }
+}
